@@ -8,7 +8,7 @@
     </appender>
 
     <logger name="org.springframework" additivity="false">
-        <level value="trace" />
+        <level value="TRACE" />
         <appender-ref ref="STDOUT" />
     </logger>
 
